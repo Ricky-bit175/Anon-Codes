@@ -81,5 +81,5 @@ printf("Sorted Elements:");
 mergesort(0,n-1,a);
 for(i=0;i<n;i++)
     printf("%d ",a[i]);
-printf("Count is: %d",c);
+printf("\nCount is: %d",c);
 }
